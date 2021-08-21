@@ -12,5 +12,5 @@ Moreover, you can use it as your personal Notebook.
 
 Liking since explored. ❣️
 
-
+{% page-ref page="./" %}
 
